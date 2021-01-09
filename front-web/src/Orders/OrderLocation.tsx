@@ -19,7 +19,7 @@ type Place = {
 }
 
 type Props = {
-    onChangeLocation: (location: OrderLocationData) => void
+    onChangeLocation: (location: OrderLocationData) => void;
 }
 
 function OrderLocation({ onChangeLocation }: Props) {
