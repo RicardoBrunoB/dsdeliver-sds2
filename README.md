@@ -17,9 +17,8 @@ A aplicação consiste em um sistema de registro e entrega de pedidos, em que as
 ![Web 3](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/web3.jpg)
 
 ## Layout mobile
-![Mobile 1](Será inserido até 14/01/2020) 
-
-![Mobile 2](Será inserido até 14/01/2020)
+![Mobile 1](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/Mobile-Home.png) ![Mobile 2](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/Mobile2.png) 
+![Mobile 3](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/Mobile3.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/modelo-conceitual.png)
