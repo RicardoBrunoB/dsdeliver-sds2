@@ -5,8 +5,8 @@ export type Order = {
     longitude: number,
     moment: string;
     status: string;
-    total: 97.95,
     products: Product[]; 
+    total: number;
 }
 
 export type Product = {
