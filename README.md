@@ -7,7 +7,7 @@ https://ricardobrunobsds2.netlify.app
 
 DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um sistema de registro e entrega de pedidos, em que as solicitações são coletadas e depois são listadas no app mobile.
+A aplicação consiste em um sistema de registro e entrega de pedidos, em que as solicitações são coletadas e depois são listadas no app mobile, permitindo ao usuário iniciar a entrega com localização através de GPS.
 
 ## Layout web
 ![Web 1](https://github.com/RicardoBrunoB/dsdeliver-sds2/blob/main/assets/web1.jpg)
